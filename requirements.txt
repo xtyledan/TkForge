@@ -1,0 +1,9 @@
+# TkForge Requirements
+# Python 3.6+ required
+
+# Tkinter comes pre-installed with Python
+# No additional packages required for basic functionality
+
+# Optional: For future enhancements
+# pillow>=9.0.0  # For image handling
+# matplotlib>=3.5.0  # For chart widgets
